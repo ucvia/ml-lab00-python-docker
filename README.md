@@ -21,13 +21,12 @@ En Linux, puedes instalar Docker a través de la línea de comandos. Los pasos v
 
 ### UCV AI
 
-Para nuestro curso, recomiendo trabajar en un ambiente Unix, preferiblemente Ubuntu o Debian. En cualquier caso, escribí un archivo de instalación que instala todo lo que necesitan y configura la misma para su usuario actual. Recomiendo leer cada paso en el caso de que estén interesados pero no es necesario.
+Para nuestro curso, recomendamos trabajar en un ambiente Unix, preferiblemente Ubuntu o Debian. En cualquier caso, escribimos un archivo de instalación que instala todo lo que necesitan y configura todo para su usuario actual. Recomiendo leer cada paso en el caso de que estén interesados pero no es necesario.
 
 Para instalar, basta con ejecutar los siguientes comandos:
 
 ```shell
-git clone https://github.com/belgrades/config-ucv.git
-cd docker
+cd instalacion/docker
 sh install.sh
 ```
 
